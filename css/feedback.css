@@ -1,0 +1,25 @@
+#feedbackpage{
+    background-color: #d3d3d3;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#feedbackForm{
+    background-color: #FFFFFF;
+    max-width: 600px;
+    margin: 0 auto 0;
+    padding: 20px;
+    border-bottom: 1px solid #eaeaea;
+    border-right: 1px solid #eaeaea;
+    border-radius: 8px;
+}
+
+#feedbackForm h6 {
+    font-size: 20px;
+}
+
+#feedbackForm .otpmessage{
+    display: none;
+    color:blue; 
+    font-size: 12px;
+}
